@@ -1,7 +1,7 @@
 ## FLO-2D-Processing-Tools
 
 ## Prerequisites
-FLO-2D-Post-Processing-Tools v1.0 is a phyton toolbox prepared to run within a GIS ESRI environment.
+FLO-2D-Processing-Tools v1.0 is a phyton toolbox prepared to run within a GIS ESRI environment.
 
 ## DESCRIPTION
 List of the tools
