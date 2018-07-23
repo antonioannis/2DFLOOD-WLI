@@ -2,10 +2,11 @@
 
 
 ## Prerequisites
-The 2DFLOOD-WLI v2.0 is a phyton script prepared to run within a GIS ESRI environment. A ESRI toolbox is also provided for having a easy-to-use interface guiding 
+FLO-2D-Post-Processing-Tools v1.0 is a phyton toolbox prepared to run within a GIS ESRI environment.
 
-## Instructions
-01 - 2DFLOOD-WLI
+## DESCRIPTION
+List of the tools
+##  2DFLOOD-WLI
 Water Levels Interpolator from FLO-2D Water surface elevation
 It interpolates the Water Surface Elevation (WSE) results from FLO-2D
 using an higher resolution DTM compared to the  resolution of the hydraulic model
