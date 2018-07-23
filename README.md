@@ -15,4 +15,4 @@ The tool requires 5 main inputs:
  - The Output path
  
 ## Outputs
-The tool provides two ouptuts: the raster and the shapefile of the water depths at the smae resolution of the input DTM
+The tool provides two outputs: the raster and the shapefile of the water depths at the smae resolution of the input DTM
